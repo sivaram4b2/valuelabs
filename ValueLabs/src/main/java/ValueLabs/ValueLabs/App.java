@@ -14,7 +14,7 @@ public class App
     {
         String s="Java Programming";
         
-        //Sivaram
+        //Sivaramakrishna Prathi
         
         char[] charString=s.toCharArray();
         
